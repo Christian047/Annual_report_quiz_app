@@ -2,7 +2,7 @@
 
 A free app for learning fundamental analysis. It teaches you to read annual reports, tests you on the ratios investors use, and lets you analyse real company figures. It runs entirely in the browser, with no backend and no account. It can be installed on a phone and used offline.
 
-## What's inside
+## What is inside
 
 **Learn**
 - 13 lessons with worked naira examples, formulas and simple diagrams: a reading guide, the three statements, liquidity, leverage, profitability, valuation, cash flow, efficiency, red flags, banking ratios, insurance, and two full case studies (a healthy company and a struggling one).
